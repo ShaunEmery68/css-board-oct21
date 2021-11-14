@@ -1,0 +1,18 @@
+#ASHA {
+aspect-ratio: 1;
+background-color: #E0EA87;
+height: 200px;
+}
+
+#ASHA h4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+#ASHA p {
+    text-align: center;
+}
+
+#ASHA {
+    transform: rotate(10deg);
+}
