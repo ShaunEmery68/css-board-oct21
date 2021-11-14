@@ -1,0 +1,20 @@
+#stuart {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background-color: #e0ea87;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 10px;
+    transform: rotate(10deg);
+    margin-top: 50px;
+}
+
+#stuart h4 {
+    margin-bottom: 10px;
+}
+
+#stuart h4 b {
+    font-weight: 700;
+}
