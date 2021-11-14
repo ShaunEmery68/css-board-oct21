@@ -38,10 +38,6 @@
 
 .post-it {
   box-shadow: 0 8px 6px -6px black;
-  width: 200px;
-  height: 200px;
-  background-color: #0089BA;
-  transform: rotate(-4deg);
 } 
 
 h4{
@@ -93,4 +89,22 @@ h4{
   .dashboard--layouts {
     grid-area: Layouts;
   }
+}
+
+#CHRIS{
+  margin: 15px;
+  width: 200px;
+  height: 200px;
+  background-color: #0089BA;
+  transform: rotate(-4deg);
+}
+
+#CHRIS h4{
+  text-align: center;
+  font-size: 24px;
+  text-decoration: underline;
+}
+
+#CHRIS p{
+  text-align: center;
 }
